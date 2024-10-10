@@ -1,0 +1,5 @@
+Found: account locked (+3 points)
+Found: verify (+3 points)
+Found: click here (+2 points)
+Found: password (+3 points)
+Total phishing points: 11

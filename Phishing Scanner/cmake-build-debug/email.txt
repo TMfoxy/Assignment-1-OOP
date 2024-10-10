@@ -1,0 +1,6 @@
+Dear User,
+
+Your PayPal account has been compromised. Please login to secure your account. Failure to do so may result in your account being suspended. Click here to resolve the issue.
+
+Best,
+PayPal Support
